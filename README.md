@@ -7,7 +7,7 @@
   Being a problem solver fanatic made me change career and...a self-taught coder was born!<br><br>
 </p>
 <p align="center">
-  <a href="https://github.com/perfectdev000"><img src="https://readme-typing-svg.herokuapp.com?color=31F774&width=500&lines=%2B6+years+bringing+cool+stuff+to+the+Web!"></a>
+  <a href="https://github.com/perfectdev000"><img src="https://readme-typing-svg.herokuapp.com?color=31F774&width=500&lines=%2B8+years+bringing+cool+stuff+to+the+Web!"></a>
 </p>
 
 ## My Core Skill Stack
